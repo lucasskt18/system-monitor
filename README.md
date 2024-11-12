@@ -22,7 +22,7 @@ Certifique-se de ter o Golang instalado em sua máquina.
 - Passos de Instalação
 - Clone este repositório:
 
-- git clone https://github.com/yourusername/system-monitor.git
+- git clone https://github.com/lucasskt18/system-monitor.git
 
 - Instale as dependências:
 - go mod tidy
